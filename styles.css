@@ -1,0 +1,84 @@
+.container {
+    width: 1430px;
+    height: 2521px;
+    position: relative;
+    background: white;
+  }
+  
+  .header {
+    width: 1430px;
+    height: 253px;
+    left: 0px;
+    top: 2268px;
+    position: absolute;
+    background: black;
+  }
+  
+  .main-content {
+    width: 1440px;
+    height: 1111px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+  }
+  
+  .main-image {
+    width: 1440px;
+    height: 600px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border: 7px black solid;
+  }
+  
+  .profile-image {
+    width: 300px;
+    height: 300px;
+    left: 565px;
+    top: 412px;
+    position: absolute;
+    border-radius: 9999px;
+    border: 9px #0725C3 solid;
+  }
+  
+  .profile-info {
+    width: 1241px;
+    height: 160px;
+    left: 94px;
+    top: 748px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 96px;
+    font-family: Inika;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .name {
+    font-size: 96px;
+  }
+  
+  .description {
+    font-size: 25px;
+  }
+  
+  .footer {
+    width: 1430px;
+    height: 85px;
+    left: 0px;
+    top: 2px;
+    position: absolute;
+    background: black;
+  }
+  
+  .social-icon {
+    width: 100px;
+    height: 100px;
+    left: 345px;
+    top: 2323px;
+    position: absolute;
+    border-radius: 9999px;
+  }
+  
+  
